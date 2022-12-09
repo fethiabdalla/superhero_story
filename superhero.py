@@ -20,7 +20,7 @@ print(enemy, "\033[30moverpowered\033[0m", name,"'s parents and tried to \033[33
 print()
 print("The \033[36mspaceship\033[0m left heading to \033[32mEarth\033[0m and", enemy, "was very \033[31mangry\033[0m since he couldn't \033[32mabsorb\033[0m the", superpower, "\033[31mpowers\033[0m and he ended up \033[30mdefeating\033[0m", name,"'s parents and put both of them in a \033[32mpool\033[0m of", weakness,".")
 print()
-print("By the time", name, "arrived on \033[32mEarth\033 he had no idea what was going on and what \033[35mplanet\033[0m he is from?")
+print("By the time", name, "arrived on \033[32mEarth\033[0m he had no idea what was going on and what \033[35mplanet\033[0m he is from?")
 print()
 print("The only thing he saw in the \033[36mspaceship\033[0m with him was his \033[34msuit\033[0m which he changed into on the \033[36mspaceship\033[0m.")
 print()
