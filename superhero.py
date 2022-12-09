@@ -24,7 +24,7 @@ print("By the time", name, "arrived on \033[32mEarth\033[0m he had no idea what 
 print()
 print("The only thing he saw in the \033[36mspaceship\033[0m with him was his \033[34msuit\033[0m which he changed into on the \033[36mspaceship\033[0m.")
 print()
-print(enemy, "had arrived on \033[32mEarth\033[0m and found", name, "and then", enemy, "told him about who he is, his parents, and that he \033[30mkilled\033[0m them, on top of that what \033[35mplanet\033[0m he is from?")
+print(enemy, "had arrived on \033[32mEarth\033[0m and found", name, "and then", enemy, "told him about who he is?, his parents, and that he \033[30mkilled\033[0m them, on top of that what \033[35mplanet\033[0m he is from?")
 print()
 print("When he learned about \033[35mplanet\033[0m", planet, "and how he got to where he was he felt \033[31menraged\033[0m and wanted to \033[30mdefeat\033[0m", enemy,".")
 print()
